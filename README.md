@@ -3,7 +3,6 @@ Olá! Eu sou á Natália Souza
 - 💻 Estagiando 
 - 🌱 estudandante no 3 período de Eng. de Software
 - 😄 Pronouns: Ela/Dela
-- ⚡ Fun fact: ...
 
 <!---
 nataliasouz/nataliasouz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
